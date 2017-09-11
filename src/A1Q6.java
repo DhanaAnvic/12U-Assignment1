@@ -34,7 +34,7 @@ public class A1Q6 {
                      System.out.println(i);
                 }
             } else {
-                System.out.println("Please do it enter again the number");
+                System.out.println("Please enter the number again");
             }
             
             if (word.equals("END")){
